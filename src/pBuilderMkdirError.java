@@ -7,7 +7,8 @@ public class pBuilderMkdirError {
     public static void main(String[] args) {
         
         ProcessBuilder processBuilder = new ProcessBuilder("cmd","/c","mkdir","b");
-        processBuilder.directory(new File("C:\\Users\\galve\\Documents"));
+        //processBuilder.directory(new File("C:\\Users\\galve\\Documents"));
+        processBuilder.directory(new File("src\\resources"));
         Process proceso = null;
        
         try {
