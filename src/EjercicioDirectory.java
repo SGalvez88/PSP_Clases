@@ -5,10 +5,13 @@ public class EjercicioDirectory {
     public static void main(String[] args) {
         
         File file = new File(".\\bin");
+        
         ProcessBuilder processBuilder = new ProcessBuilder("java", "LecturaCmdBits");
 
         processBuilder.directory(file);
+
         System.out.println("El directorio de trabajo es: " + processBuilder.directory());
+
         Process process = null;
 
         try {
