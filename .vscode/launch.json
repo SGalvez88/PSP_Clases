@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjecuccionConsola",
+            "request": "launch",
+            "mainClass": "EjecuccionConsola",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio29sep",
+            "request": "launch",
+            "mainClass": "Ejercicio29sep",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjercicioDirectory",
+            "request": "launch",
+            "mainClass": "EjercicioDirectory",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch LecturaCmdBits",
+            "request": "launch",
+            "mainClass": "LecturaCmdBits",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch clase4octOutputStream",
+            "request": "launch",
+            "mainClass": "clase4octOutputStream",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch clase6oct",
+            "request": "launch",
+            "mainClass": "clase6oct",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch pBuilder",
+            "request": "launch",
+            "mainClass": "pBuilder",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch pBuilderMkdir",
+            "request": "launch",
+            "mainClass": "pBuilderMkdir",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch pBuilderMkdirError",
+            "request": "launch",
+            "mainClass": "pBuilderMkdirError",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch progNombre",
+            "request": "launch",
+            "mainClass": "progNombre",
+            "projectName": "PSP_Clases_284e9e49"
+        },
+        {
+            "type": "java",
+            "name": "Launch progrProcesoNombre",
+            "request": "launch",
+            "mainClass": "progrProcesoNombre",
+            "projectName": "PSP_Clases_284e9e49"
+        }
+    ]
+}
